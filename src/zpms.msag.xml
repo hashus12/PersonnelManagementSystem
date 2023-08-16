@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZPMS</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Proje Yönetim Sistemi Message Class</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZPMS</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT> &amp; alanı boş olamaz!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZPMS</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT> &amp; verileri kaydedilmiştir!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZPMS</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT> &amp; sahip kayıt bulunamadı!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZPMS</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT> &amp; sahip kayıt bulundu!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZPMS</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT> &amp; sahip bir kayıt zaten var!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZPMS</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT> &amp; verileri güncellenmiştir!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZPMS</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Giriş Başarılı!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZPMS</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Kullanıcı adı veya şifre boş olamaz!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZPMS</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Yanlış kullanıcı adı veya şifre!</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
